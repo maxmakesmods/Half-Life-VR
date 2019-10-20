@@ -19,7 +19,7 @@ Half-Life: VR
 Author: Max Makes Mods
 github: https://github.com/maxmakesmods/Half-Life-VR
 
-VERSION 0.5.3
+VERSION 0.5.4
 
 Copyright (c) 2017-2019 Max Makes Mods
 
