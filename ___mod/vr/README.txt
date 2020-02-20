@@ -3,9 +3,9 @@ Half-Life: VR
 Author: Max Makes Mods and team
 github: https://github.com/maxmakesmods/Half-Life-VR
 
-VERSION 0.6.7-beta
+VERSION 0.6.8-beta
 
-Release date: 2020-02-20
+Release date:
 
 Copyright (c) 2017-2019 Max Makes Mods (if not otherwise stated)
 
