@@ -23,6 +23,9 @@
 #include "enginecallback.h"
 #endif
 
+float CVAR_GET_FLOAT(const char* x);
+const char* CVAR_GET_STRING(const char* x);
+
 #include <string>
 
 // The amount of units to keep between player view position and walls in VR - Max Makes Mods, 2019-06-02
