@@ -5,7 +5,7 @@ github: https://github.com/maxmakesmods/Half-Life-VR
 
 VERSION 0.6.26-beta
 
-Release date:
+Release date: 2020-03-21
 
 Copyright (c) 2017-2020 Max Makes Mods (if not otherwise stated)
 
