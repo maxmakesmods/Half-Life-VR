@@ -1,17 +1,26 @@
 Half-Life: VR
 =============
-Author: Max Makes Mods and team
-github: https://github.com/maxmakesmods/Half-Life-VR
+This is a mod for Half-Life adding support for playing the game in Virtual Reality.
+
+Author:  Max Makes Mods and team
+Github:  https://github.com/maxmakesmods/Half-Life-VR
+Discord: https://discord.gg/32VbCSt
+Patreon: https://www.patreon.com/maxmakesmods
+Web:     https://www.halflifevr.de/
 
 VERSION 0.6.30-beta
 
 Release date: -
 
+======
+
 Copyright (c) 2017-2022 Max Makes Mods (if not otherwise stated)
 
 Half-Life: VR team consists of Max Makes Mods, Formic.Sapien, Rorin, DoomMarine23, and Junt.
 
-Based on the Half-Life SDK by Valve Corporation. The Valve SDK LICENSE applies. All rights reserved.
+Based on the Half-Life SDK by Valve Corporation. The Valve SDK LICENSE applies. Not affiliated with Valve. All rights reserved.
+
+Third party licenses apply where applicable. For a list of third parties see below.
 
 ======
 
@@ -22,18 +31,6 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-======
-
-This is a mod for Half-Life adding support for playing the game in Virtual Reality.
-
-VR enabled weapon models by Formic.Sapien and Rorin.
-
-Substantial help provided by Formic.Sapien, Rorin, DoomMarine23, and Junt.
-
-Third party licenses apply where applicable.
-
-For a list of third parties see below.
 
 ===
 This mod is released as is without any guarantee that it works and without any warranties whatsoever. Use on your own risk. If you don't know what you are doing, don't do it.
@@ -135,7 +132,7 @@ Ari Tuohenmaa, Eric Gulve, Lev, Harold Flower, Ignacio García, Fabian, Liz Edwa
 
 Beta testers:
 ---
-bobloblaw, Vince Crusty, SquidHominid, Tiz68, optimumbox, Junt, Arch [TuT VR], Hermann Hetzer, DetriniuM, ajantaju, Moose, Lyo, Hamish, FriskyNoodle
+bobloblaw, Vince Crusty, SquidHominid, Tiz68, optimumbox, Skummeh, Arch [TuT VR], Hermann Hetzer, DetriniuM, ajantaju, Moose, Lyo, Hamish, FriskyNoodle
 
 Additional help:
 ---
