@@ -104,7 +104,7 @@
       <AdditionalLibraryDirectories>..\reactphysics3d\lib\Release;..\steam\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
     <PostBuildEvent>
-      <Command>..\DLLIncludeFixer.py -i "./$(Configuration)/hl.dll"
+      <Command>python ..\DLLIncludeFixer.py -i "./$(Configuration)/hl.dll"
 
 copy .\$(Configuration)\hl.dll "$(HLVRInstallDirectory)valve/dlls/hl.dll"
 copy .\$(Configuration)\hl.pdb "$(HLVRInstallDirectory)valve/dlls/hl.pdb"
@@ -164,7 +164,7 @@ copy .\$(Configuration)\hl.pdb "$(HLVRInstallDirectory)valve/dlls/hl.pdb"
       <AdditionalLibraryDirectories>..\reactphysics3d\lib\Debug;..\steam\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
     <PostBuildEvent>
-      <Command>..\DLLIncludeFixer.py -i "./$(Configuration)/hl.dll"
+      <Command>python ..\DLLIncludeFixer.py -i "./$(Configuration)/hl.dll"
 
 copy .\$(Configuration)\hl.dll "$(HLVRInstallDirectory)valve/dlls/hl.dll"
 copy .\$(Configuration)\hl.pdb "$(HLVRInstallDirectory)valve/dlls/hl.pdb"

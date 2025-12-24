@@ -110,7 +110,7 @@
       <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
     </Link>
     <PostBuildEvent>
-      <Command>..\DLLIncludeFixer.py -i "./$(Configuration)/client.dll"
+      <Command>python ..\DLLIncludeFixer.py -i "./$(Configuration)/client.dll"
 
 copy .\$(Configuration)\client.dll "$(HLVRInstallDirectory)valve/cl_dlls/client.dll"
 copy .\$(Configuration)\client.pdb "$(HLVRInstallDirectory)valve/cl_dlls/client.pdb"
@@ -163,7 +163,7 @@ copy .\$(Configuration)\client.pdb "$(HLVRInstallDirectory)valve/cl_dlls/client.
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
     <PostBuildEvent>
-      <Command>..\DLLIncludeFixer.py -i "./$(Configuration)/client.dll"
+      <Command>python ..\DLLIncludeFixer.py -i "./$(Configuration)/client.dll"
 
 copy .\$(Configuration)\client.dll "$(HLVRInstallDirectory)valve/cl_dlls/client.dll"
 copy .\$(Configuration)\client.pdb "$(HLVRInstallDirectory)valve/cl_dlls/client.pdb"

@@ -3365,7 +3365,10 @@ int CBasePlayer::Restore(CRestore& restore)
 		if (STRING(INDEXENT(0)->v.model) == std::string{ "maps/c4a1f.bsp" })
 		{
 			edict_t* pentLandmark = UTIL_FindLandmark("c4a1f");
-			pev->origin = VARS(pentLandmark)->origin + Vector(0, 0, 1);
+			if (pentLandmark)
+			{
+				pev->origin = VARS(pentLandmark)->origin + Vector(0, 0, 1);
+			}
 		}
 	}
 
