@@ -14,8 +14,6 @@ A highly immersive Virtual Reality mod for the classic Half-Life from 1998.
 
 Help with code is always very welcome.
 
-Before you dive into the code to tackle a bug or implement a feature, please join my Discord Server [Max Makes Mods](https://discord.gg/jujwEGf62K) and talk to me, so we won't accidentally work on the same issue in parallel.
-
 See [Contributing](contributing.md) for more details.
 
 ---
@@ -48,7 +46,7 @@ All source code lives in [src](../src).
 
 5. After building the game DLLs, Visual Studio runs `DLLIncludeFixer.py`. For this you need Python. Without this script, Half-Life: VR will use the wrong Steam API DLL and the game will crash.
 
-If there are issues or if you have questions, join my Discord Server [Max Makes Mods](https://discord.gg/jujwEGf62K) to ask for support!
+If there are issues or if you have questions, feel free to open an issue.
 
 ---
 #### Create a Half-Life: VR folder from Half-Life
@@ -100,4 +98,4 @@ If you don't have Half-Life: VR installed, e.g. if you are following this guide 
 Now follow the [Build The Mod](#build-the-mod) instructions above to build `client.dll`, `hl.dll`, and `HLVRConfig.exe`.
 
 ---
-That should be it. If you run into problems or have questions, join my Discord Server [Max Makes Mods](https://discord.gg/jujwEGf62K)!
+That should be it. If you run into problems or have questions, feel free to open an issue!

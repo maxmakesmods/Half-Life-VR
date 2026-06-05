@@ -11,6 +11,14 @@ A highly immersive Virtual Reality mod for the classic Half-Life from 1998.
 ### Release Notes
 
 
+#### 0.7.7-beta - 2025-12-25
+
+##### Mod:
+  - Fixed a crashbug right before Nihilanth
+
+##### HLVRConfig:
+  - No changes
+
 #### 0.7.6-beta - 2023-05-07
 
 ##### Mod:

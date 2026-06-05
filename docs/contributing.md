@@ -17,9 +17,7 @@ See [Developer Guide](dev-guide.md).
 ---
 #### General
 
-Help with code is always very welcome.
-
-Before you dive into the code to tackle a bug or implement a feature, please join my Discord Server [Max Makes Mods](https://discord.gg/jujwEGf62K) and talk to me, so we won't accidentally work on the same issue in parallel.
+Help with code is always very welcome. Current main maintainer is 7empest. Before adding or changing any code, create or take an issue and discuss the implementation with 7empest. Code changes require a Pull Request.
 
 ---
 #### Coding Style
