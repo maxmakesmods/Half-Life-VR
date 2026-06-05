@@ -12,7 +12,7 @@ A highly immersive Virtual Reality mod for the classic Half-Life from 1998.
 
 Copyright (c) 2017-2022 Max Makes Mods (if not otherwise stated)
 
-Half-Life: VR is made by Max Makes Mods with help from Formic.Sapien, Rorin, DoomMarine23, and Junt.
+Half-Life: VR is made by Max Makes Mods with help from Formic.Sapien, Rorin, DoomMarine23, and Junt. Current maintainer is 7empest.
 
 Based on the Half-Life SDK by Valve Corporation. The Valve SDK LICENSE applies. Not affiliated with Valve. All rights reserved.
 

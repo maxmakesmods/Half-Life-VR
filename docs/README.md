@@ -34,8 +34,6 @@ Play with beautiful AI upscaled textures, HD models, and a truly equal opportuni
 #### Links
 
 - Web: [halflifevr.de](https://www.halflifevr.de/)
-- Discord: [Max Makes Mods](https://discord.gg/jujwEGf62K)
-- Youtube: [Max Makes Mods](https://youtube.com/maxmakesmods)
 
 ---
 #### Thanks
